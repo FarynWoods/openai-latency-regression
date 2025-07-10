@@ -5,6 +5,6 @@ authors:
   given-names: "Faryn"
   orcid: "https://orcid.org/0000-0002-8691-0747"
 title: "What Latency Can Tell Us About Emissions in Closed-Source LLMs: A Partial Model and a Call for Transparency"
-doi: 
+doi: 10.5281/zenodo.15857734
 date-released: 
 url: "https://github.com/FarynWoods/openai-latency-regression"
